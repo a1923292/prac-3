@@ -1,4 +1,4 @@
-#include "person.h"
+#include "Person.h"
 
 PersonList createPersonList(int n){
     PersonList people;
