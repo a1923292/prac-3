@@ -1,5 +1,5 @@
 #include <iostream>
-#include "person.h"
+#include "Person.h"
 
 using namespace std;
 extern PersonList shallowCopyPersonList(PersonList pl);
